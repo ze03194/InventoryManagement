@@ -1,0 +1,4 @@
+module:com.example.inventorymanagement
+com.example.inventorymanagement
+com.example.inventorymanagement.controllers
+com.example.inventorymanagement.models
